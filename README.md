@@ -8,3 +8,5 @@ and safety features for streamlined user experience.
 
 - Utilized Figma to design and develop the front-end application for seamless integration of new software within the
 American Airlines app, ensuring a user-friendly interface and smooth user experience.
+
+## Currently Being Updated
